@@ -1,0 +1,1 @@
+SELECT Game.name,Genre.genre from Game join Genre on Game.genre_id=Genre.id where Genre.genre='Action'

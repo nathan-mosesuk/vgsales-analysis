@@ -1,0 +1,18 @@
+What genre games have been made the most?
+
+Genre Game_count
+
+Action: 3316
+Sports: 2346
+Misc: 1739
+Role-Playing: 1488
+Shooter: 1310
+Adventure: 1286
+Racing: 1249
+Platform: 886
+Simulation: 867
+Fighting: 848
+Strategy: 681
+Puzzle: 582
+
+Action is/are the genre(s) with most games.
