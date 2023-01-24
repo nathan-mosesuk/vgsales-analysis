@@ -1,0 +1,1 @@
+SELECT Game.name,Year.year from Game join Year on Game.year_id=Year.id where Year.year=2009
