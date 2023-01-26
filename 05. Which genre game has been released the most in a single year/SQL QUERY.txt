@@ -1,0 +1,1 @@
+SELECT Game.name,Year.year,Genre.genre from Game join Year join Genre on Game.year_id=Year.id and Game.genre_id=Genre.id where Year.year=2009 and Genre.genre='Action'

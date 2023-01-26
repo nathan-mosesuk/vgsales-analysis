@@ -1,0 +1,44 @@
+5. Which genre game has been released the most in a single year
+
+Year Max_genre Game_count
+
+0 Action 63
+1980 Misc 4
+1981 Action 25
+1982 Action 18
+1983 Action 7
+1984 Shooter / Racing / Puzzle 3
+1985 Platform / Puzzle 4
+1986 Action / Platform 6
+1987 Sports 4
+1988 Platform 4
+1989 Puzzle 5
+1990 Platform / Action / Sports 3
+1991 Sports 7
+1992 Fighting 7
+1993 Platform / Fighting 11
+1994 Fighting / Sports 22
+1995 Fighting / Sports / Shooter 29
+1996 Sports 52
+1997 Sports 46
+1998 Sports 70
+1999 Sports 62
+2000 Sports 81
+2001 Sports 96
+2002 Sports 188
+2003 Action 144
+2004 Action 125
+2005 Action 192
+2006 Action 184
+2007 Action 211
+2008 Action 221
+2009 Action 272
+2010 Action 226
+2011 Action 239
+2012 Action 266
+2013 Action 148
+2014 Action 186
+2015 Action 255
+2016 Action 119
+2017 Role-Playing 2
+2020 Simulation 1
