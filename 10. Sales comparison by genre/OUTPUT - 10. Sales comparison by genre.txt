@@ -1,0 +1,16 @@
+10. Sales comparison by genre
+
+Genre  NA_sales EU_sales JP_sales Other_sales Global_sales (in millions)
+
+Action  877.83 525.00 159.95 187.38  1750.16
+Sports  683.35 376.85 135.37 134.97  1330.54
+Shooter  582.60 313.27 38.28 102.69  1036.84
+Role-Playing  327.28 188.06 352.31 59.61  927.26
+Platform  447.05 201.63 130.77 51.59  831.04
+Misc  410.24 215.98 107.76 75.32  809.30
+Racing  359.42 238.39 56.69 77.27  731.77
+Fighting  223.59 101.32 87.35 36.68  448.94
+Simulation  183.31 113.38 63.70 31.52  391.91
+Puzzle  123.78 50.78 57.31 12.55  244.42
+Adventure  105.80 64.13 52.07 16.81  238.81
+Strategy  68.70 45.34 49.46 11.36  174.86
